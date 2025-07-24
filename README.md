@@ -1,1 +1,1 @@
-# AI-ML-Project
+# Brain Tumor MRI Image Classification
